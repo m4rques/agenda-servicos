@@ -4,10 +4,9 @@ Trabalho final de Estrutura de Dados 2026.2, tema 10. Aplicação Java de consol
 
 Integrantes (grupo de 2 a 4 pessoas):
 
-- Nome: ____________________ | GitHub: ____________________
-- Nome: ____________________ | GitHub: ____________________
-- Nome: ____________________ | GitHub: ____________________ (se houver)
-- Nome: ____________________ | GitHub: ____________________ (se houver)
+- Nome: Kauan Henrique Capinam Marques | GitHub: ____________________
+- Nome: Guilherme de Carvalho Pimentel Ferreira | GitHub: ____________________
+- Nome: Kelvin Cerqueira de Sousa | GitHub: ____________________ 
 
 O PDF exige que o sistema esteja no GitHub de **todos os integrantes**. Todos devem apresentar, com ordem individual sorteada no dia. Entrega indicada no enunciado: **17/11**; apresentação: **17 ou 24/11**, pela ordem do tema. O contexto do documento é o semestre 2026.2. A publicação e a identificação da equipe devem ser feitas pelos integrantes.
 
