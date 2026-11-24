@@ -1,0 +1,98 @@
+=== PAGINA 1 ===
+TRABALHO FINAL
+Disciplina: Estrutura de Dados 2026.2
+Valor: 8,00 pontos
+Data de entrega: 17/11
+Data de apresentação : 17 ou 24/11 (a apresentação será pela ordem do tema do
+trabalho)
+1. OBJETIVO E REGRAS GERAIS
+O objetivo deste trabalho é a construção de uma aplicação real desenvolvida em JAVA,
+onde diferentes estruturas de dados interagem para resolver um problema de um
+negócio real e prático.
+Formação das Equipes: Obrigatoriamente compostas em grupo de 2 a 4 integrantes.
+● Apresentação e Entrega: O sistema deverá estar no GitHub de todos os
+integrantes. A apresentação será feita por todos os integrantes definido ordem por
+sorteio no dia.
+● Restrições: É expressamente proibido o uso de estruturas prontas do Java
+(Collections como ArrayList, LinkedList, Stack, Queue, etc.).
+NÃO SERÁ ACEITO:
+● Código copiado; código com comentário.
+● Trabalhos iguais em nenhuma hipótese; inclusive de outras turmas. Caso
+aconteça, os dois serão ZERADOS.
+● Uso de estruturas prontas;
+● Trabalhos sem apresentação;
+● Programas que não compilem.
+2. REQUISITOS DE ESTRUTURAS E MÉTODOS
+Todas as estruturas deverão ser implementadas manualmente. O projeto deve conter:
+2.1. Árvore Binária de Busca (ABB) - Estrutura Principal
+● A ABB deve ser utilizada como estrutura central para cadastros, permitindo alta
+performance em buscas. Deverá conter, no mínimo, os seguintes métodos:
+
+=== PAGINA 2 ===
+● inserir(): Inserir nós respeitando a regra da ABB (menor à esquerda, maior à
+direita).
+● buscar() / localizar(): Buscar um registro específico pela sua chave.
+● excluir() / remover(): Remover um nó da árvore (tratando nós folha, nós com 1
+filho e nós com 2 filhos).
+● percursos(): Exibir os dados em in-ordem, pré-ordem e pós-ordem.
+2.2. Estruturas Auxiliares (Mínimo de DUAS)
+● Além da Árvore, o grupo deve obrigatoriamente implementar e usar no fluxo do
+negócio pelo menos DUAS outras estruturas (Fila, Pilha ou Lista Encadeada). Elas
+também exigem métodos próprios:
+● inserir() / adicionar()
+● buscar() / localizar()
+● excluir() / remover():
+● listar():
+3. CRITÉRIOS DE AVALIAÇÃO (Total: 8,00 pontos)
+● Implementação correta dos métodos e estruturas (Árvore e Auxiliares)
+● Funcionamento das funcionalidades e do contexto da aplicação
+● Organização do código (Orientação a Objetos e Limpeza)
+● Apresentação e explicação individual (Sorteio)
+● Avaliação individual
+4. TEMAS
+Os temas serão sorteados . É necessário implementar a interação completa entre a
+ABB e as estruturas auxiliares solicitadas.
+TEMA 01: Plataforma de E-commerce e Logística
+● Árvore (ABB): Catálogo de Produtos (busca por código).
+Fila: Fila de pedidos aguardando processamento/pagamento.
+Pilha: Histórico de navegação do usuário (botão voltar).
+TEMA 02: Sistema de Gestão Hospitalar e Triagem
+● Árvore (ABB): Cadastro de pacientes (busca por prontuário).
+Fila: Fila de espera para atendimento na emergência.
+Lista Encadeada: Histórico de consultas e prontuários médicos de cada paciente.
+TEMA 03: Controle de Tráfego Aéreo
+● Árvore (ABB): Identificação de voos programados (busca por código).
+Fila: Pista de decolagem/aterrissagem (ordem de chegada).
+Pilha: Registro (Log) de eventos críticos para auditoria rápida.
+
+=== PAGINA 3 ===
+TEMA 04: Catálogo de Streaming de Vídeo
+● Árvore (ABB): Acervo de filmes e séries (busca por código).
+Pilha: Histórico de títulos assistidos recentemente.
+Fila: Lista de 'Assistir mais tarde'.
+TEMA 05: Sistema de Gestão Acadêmica
+● Árvore (ABB): Cadastro de Cursos (busca por código).
+Lista Encadeada: Alunos matriculados dentro de cada curso.
+Fila: Fila de espera para disciplinas sem vaga.
+TEMA 06: Gerenciador de Tarefas Corporativas
+● Árvore (ABB): Funcionários e usuários do sistema (busca por ID).
+Fila: Tarefas pendentes no backlog do projeto.
+Pilha: Sistema de 'Desfazer' (Undo) para restaurar tarefas excluídas.
+TEMA 07: Sistema de Atendimento e Suporte (Help Desk)
+● Árvore (ABB): Clientes com contrato (busca por CNPJ/CPF).
+Fila: Tickets de suporte abertos aguardando técnico.
+Lista Encadeada: Interações e mensagens dentro de um ticket.
+TEMA 08: Plataforma de RPG e Matchmaking
+● Árvore (ABB): Cadastro de personagens (busca pelo ID/Nível).
+Fila: Jogadores aguardando fila de partida (Matchmaking).
+Pilha: Inventário do personagem (últimos itens adicionados saem primeiro).
+TEMA 09: Sistema de Biblioteca Pública
+● Árvore (ABB): Acervo de livros (busca por ISBN).
+Fila: Fila de reserva para livros atualmente emprestados.
+Pilha: Histórico de devoluções do dia para reposição nas prateleiras.
+TEMA 10: Aplicativo de Agenda de Serviços
+● Árvore (ABB): Cadastro de clientes fiéis (busca por telefone/ID).
+Fila: Agendamentos do dia em ordem cronológica de atendimento.
+Pilha: Histórico de serviços cancelados para análise.
+Bom Trabalho!
+Profa. Karina Leite
