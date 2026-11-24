@@ -2,11 +2,11 @@
 
 Trabalho final de Estrutura de Dados 2026.2, tema 10. Aplicação Java de console para uma barbearia, com cadastro de clientes em árvore binária de busca, agendamentos em fila cronológica e histórico de cancelamentos em pilha. As três estruturas usam nós e referências implementados no projeto.
 
-Integrantes (grupo de 2 a 4 pessoas):
+Integrantes:
 
 - Nome: Kauan Henrique Capinam Marques | GitHub: ____________________
-- Nome: Guilherme de Carvalho Pimentel Ferreira | GitHub: ____________________
-- Nome: Kelvin Cerqueira de Sousa | GitHub: ____________________ 
+- Nome: Guilherme de Carvalho Pimentel Ferreira | GitHub: https://github.com/ferreiragp
+- Nome: Kelvin Cerqueira de Sousa | GitHub: https://github.com/kelvincerqueirasouza 
 
 O PDF exige que o sistema esteja no GitHub de **todos os integrantes**. Todos devem apresentar, com ordem individual sorteada no dia. Entrega indicada no enunciado: **17/11**; apresentação: **17 ou 24/11**, pela ordem do tema. O contexto do documento é o semestre 2026.2. A publicação e a identificação da equipe devem ser feitas pelos integrantes.
 
