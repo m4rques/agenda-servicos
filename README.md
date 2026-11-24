@@ -4,7 +4,7 @@ Trabalho final de Estrutura de Dados 2026.2, tema 10. Aplicação Java de consol
 
 Integrantes:
 
-- Nome: Kauan Henrique Capinam Marques | GitHub: ____________________
+- Nome: Kauan Henrique Capinam Marques | GitHub: https://github.com/m4rques
 - Nome: Guilherme de Carvalho Pimentel Ferreira | GitHub: https://github.com/ferreiragp
 - Nome: Kelvin Cerqueira de Sousa | GitHub: https://github.com/kelvincerqueirasouza 
 
